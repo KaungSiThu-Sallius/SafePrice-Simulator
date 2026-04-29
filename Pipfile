@@ -16,6 +16,7 @@ interpret = "*"
 mlflow = "*"
 optuna = "*"
 torch = "*"
+tensorflow = "*"
 
 [dev-packages]
 ipykernel = "*"
