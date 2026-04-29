@@ -10,6 +10,12 @@ matplotlib = "*"
 openpyxl = "*"
 holidays = "*"
 seaborn = "*"
+scikit-learn = "*"
+xgboost = "*"
+interpret = "*"
+mlflow = "*"
+optuna = "*"
+torch = "*"
 
 [dev-packages]
 ipykernel = "*"
