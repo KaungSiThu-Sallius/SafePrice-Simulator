@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a33b2088cd7c027fecb602b6f27a0d83cc87c7ff240f9b4d9f7b739bc515bc42"
+            "sha256": "26132b2702c8ff8894fca40e21d006bbd09e19aa5af93f5f2095b3af9541fe08"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1581,6 +1581,15 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==1.3.12"
+        },
+        "mapie": {
+            "hashes": [
+                "sha256:3a810b140eedb39f3fb072d78b058e97682e45e4c791ad2dbf8ffbd2671b98b9",
+                "sha256:d924b3aebae36e19127e861da348b631eb609afb8c28e235521a7977e894819e"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
+            "version": "==1.4.0"
         },
         "markdown-it-py": {
             "hashes": [

@@ -17,6 +17,7 @@ mlflow = "*"
 optuna = "*"
 torch = "*"
 tensorflow = "*"
+mapie = "*"
 
 [dev-packages]
 ipykernel = "*"
